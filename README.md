@@ -1,4 +1,5 @@
 Hi there, I'm Mayank Verma! 👋
+
 🎓 CSE AI & Machine Learning Student | VIT Bhopal (2025-2029)
 I am a tech enthusiast and aspiring engineer driven by a deep curiosity for how intelligent systems can solve complex real-world problems. Currently building a strong foundation in Computer Science at VIT Bhopal, I spend my time exploring the latest in AI, coding, and the evolving tech landscape.
 
